@@ -1,0 +1,11 @@
+GraphType = "GraphPoet"
+GraphName = "aGraphPoet"
+VertexType = "Word"
+Vertex = <"A","Word">
+Vertex = <"B","Word">
+Vertex = <"C","Word">
+Vertex = <"D","Word">
+EdgeType = "WordEdge"
+Edge = <"AB","WordEdge","1","A","B","NO">
+Edge = <"BC","WordEdge","1.1","B","C","NO">
+Edge = <"CD","WordEdge","1.2","C","D","NO">
